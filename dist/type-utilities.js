@@ -22,3 +22,11 @@ function updateTodo(todo, fieldsToUpdate) {
 }
 var todo2 = updateTodo(todo, { completed: true });
 console.log(todo2);
+var todo3 = {
+    title: "Fechar Ghost of Tshushima",
+    completed: false
+};
+var todo4 = {
+    title: "Fechar Ghost of Tshushima",
+    completed: false
+};
